@@ -1,0 +1,38 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .text-animate {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 42px;
+        fill: #ffffff;
+        font-weight: 800;
+        animation: float 3s ease-in-out infinite;
+      }
+      .subtext {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 18px;
+        fill: #a8d5e2;
+        font-weight: 400;
+        animation: fade 4s ease-in-out infinite;
+      }
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+      @keyframes fade {
+        0% { opacity: 0.8; }
+        50% { opacity: 1; }
+        100% { opacity: 0.8; }
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad1)" rx="20" ry="20" />
+  <text x="50%" y="45%" class="text-animate" text-anchor="middle" dominant-baseline="middle">Awesome Gymnasium Data 🚀</text>
+  <text x="50%" y="70%" class="subtext" text-anchor="middle" dominant-baseline="middle">Top Tools Ecosystem for Reinforcement Learning 🤖</text>
+</svg>

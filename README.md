@@ -1,5 +1,12 @@
-# Awesome-Gymnasium-Data
-## Top Gymnasium Environment (Reinforcement Learning) Tools Ecosystem
+# 🌟 Awesome-Gymnasium-Data
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Gymnasium Data Banner">
+</p>
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 🛠️ Top Gymnasium Environment (Reinforcement Learning) Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on RL Algorithm Comparison, Benchmarking & Experimentation*  
@@ -23,26 +30,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Gymnasium / RL Experimentation)
 
-- **[Fleet](https://fleet.ai/)**  
-  AI platform for scaling and comparing reinforcement learning experiments in Gymnasium environments.
-
-- **[Deeptune](https://deeptune.ai/)**  
-  Intelligent hyperparameter optimization and RL algorithm comparison tool.
-
-- **[Bespoke Labs](https://bespokelabs.ai/)**  
-  Specialized platform for RL research with strong benchmarking and visualization features.
-
-- **[Mechanize](https://mechanize.ai/)**  
-  AI-driven RL experimentation and algorithm evaluation platform.
-
-- **[Sepal AI](https://sepal.ai/)**  
-  Advanced RL benchmarking and comparison tool for Gymnasium environments.
-
-- **[HUD](https://hud.ai/)**  
-  Real-time visualization and monitoring platform for RL training runs.
-
-- **[Plato](https://plato.ai/)**  
-  Comprehensive RL research platform with algorithm comparison and experiment management.
+| Product | Description | Pricing | Free Tier Limit | Company Size (Valuation) |
+|---------|-------------|---------|-----------------|--------------------------|
+| **[Fleet](https://fleet.ai/)** | AI platform for scaling and comparing reinforcement learning experiments in Gymnasium environments. | Custom Pricing | Not specified | $750M |
+| **[Deeptune](https://deeptune.ai/)** | Intelligent hyperparameter optimization and RL algorithm comparison tool. | Custom Pricing | Not specified | $250M |
+| **[Sepal AI](https://sepal.ai/)** | Advanced RL benchmarking and comparison tool for Gymnasium environments. | Custom Pricing | Not specified | $250M |
+| **[Plato](https://plato.ai/)** | Comprehensive RL research platform with algorithm comparison and experiment management. | Custom Pricing | Not specified | $100M |
+| **[Bespoke Labs](https://bespokelabs.ai/)** | Specialized platform for RL research with strong benchmarking and visualization features. | Custom Pricing | Not specified | $40M |
+| **[Mechanize](https://mechanize.ai/)** | AI-driven RL experimentation and algorithm evaluation platform. | Custom Pricing | Not specified | $20M |
+| **[HUD](https://hud.ai/)** | Real-time visualization and monitoring platform for RL training runs. | Cloud: $0.25/hr, Enterprise: Custom | Free SDK access, $100 student credit | $5M |
 
 ### Advanced & Specialized Platforms
 
@@ -52,34 +48,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated RL Benchmarking & Gymnasium Tools
 
-- **[Gymnasium](https://github.com/Farama-Foundation/Gymnasium)**  
-  The official open-source standard library for reinforcement learning environments, serving as the foundation for all comparisons.
-
-- **[Stable Baselines3](https://github.com/DLR-RM/stable-baselines3)**  
-  Reliable implementations of RL algorithms with built-in benchmarking and comparison tools.
-
-- **[RLlib](https://github.com/ray-project/ray/tree/master/rllib)**  
+- **[RLlib](https://github.com/ray-project/ray/tree/master/rllib)** [![Stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
   Scalable RL library from Ray with extensive algorithm comparison, experiment tracking, and Gymnasium support.
 
-- **[CleanRL](https://github.com/vwxyzjn/cleanrl)**  
-  Single-file implementations of RL algorithms designed for easy comparison and reproducibility.
+- **[Stable Baselines3](https://github.com/DLR-RM/stable-baselines3)** [![Stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=social&color=white)](https://github.com/DLR-RM/stable-baselines3/stargazers)  
+  Reliable implementations of RL algorithms with built-in benchmarking and comparison tools.
 
-- **[SB3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo)**  
-  Training framework and hyperparameter optimization tool for comparing algorithms in Gymnasium environments.
-
-- **[OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)**  
-  Open-source RLHF framework with strong benchmarking capabilities.
-
-- **[Tianshou](https://github.com/thu-ml/tianshou)**  
+- **[Tianshou](https://github.com/thu-ml/tianshou)** [![Stars](https://img.shields.io/github/stars/thu-ml/tianshou?style=social&color=white)](https://github.com/thu-ml/tianshou/stargazers)  
   Elegant PyTorch-based RL library with excellent support for algorithm comparison.
 
-- **[Acme](https://github.com/google-deepmind/acme)**  
+- **[Gymnasium](https://github.com/Farama-Foundation/Gymnasium)** [![Stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium/stargazers)  
+  The official open-source standard library for reinforcement learning environments, serving as the foundation for all comparisons.
+
+- **[CleanRL](https://github.com/vwxyzjn/cleanrl)** [![Stars](https://img.shields.io/github/stars/vwxyzjn/cleanrl?style=social&color=white)](https://github.com/vwxyzjn/cleanrl/stargazers)  
+  Single-file implementations of RL algorithms designed for easy comparison and reproducibility.
+
+- **[Acme](https://github.com/google-deepmind/acme)** [![Stars](https://img.shields.io/github/stars/google-deepmind/acme?style=social&color=white)](https://github.com/google-deepmind/acme/stargazers)  
   DeepMind’s open-source RL research framework with modular components for experimentation.
 
-- **[Sample Factory](https://github.com/vectorInstitute/sample-factory)**  
+- **[OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)** [![Stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social&color=white)](https://github.com/OpenRLHF/OpenRLHF/stargazers)  
+  Open-source RLHF framework with strong benchmarking capabilities.
+
+- **[SB3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo)** [![Stars](https://img.shields.io/github/stars/DLR-RM/rl-baselines3-zoo?style=social&color=white)](https://github.com/DLR-RM/rl-baselines3-zoo/stargazers)  
+  Training framework and hyperparameter optimization tool for comparing algorithms in Gymnasium environments.
+
+- **[Sample Factory](https://github.com/vectorInstitute/sample-factory)** [![Stars](https://img.shields.io/github/stars/vectorInstitute/sample-factory?style=social&color=white)](https://github.com/vectorInstitute/sample-factory/stargazers)  
   High-throughput RL training framework optimized for fast algorithm iteration and comparison.
 
-- **[Rliable](https://github.com/google-research/rliable)**  
+- **[Rliable](https://github.com/google-research/rliable)** [![Stars](https://img.shields.io/github/stars/google-research/rliable?style=social&color=white)](https://github.com/google-research/rliable/stargazers)  
   Open-source library for reliable evaluation and comparison of RL algorithms.
 
 ### Additional Strong Open-Source Options
@@ -111,3 +107,14 @@ Star the repo if you find it useful!
 
 **Made for RL researchers, reinforcement learning engineers, and AI developers.**  
 Let's make RL algorithm comparison more transparent, reproducible, and open.
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Gymnasium-Data&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Gymnasium-Data&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Gymnasium-Data&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Gymnasium-Data&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
