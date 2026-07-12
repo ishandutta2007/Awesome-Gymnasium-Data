@@ -72,7 +72,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[SB3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo)** [![Stars](https://img.shields.io/github/stars/DLR-RM/rl-baselines3-zoo?style=social&color=white)](https://github.com/DLR-RM/rl-baselines3-zoo/stargazers)  
   Training framework and hyperparameter optimization tool for comparing algorithms in Gymnasium environments.
 
-- **[Sample Factory](https://github.com/vectorInstitute/sample-factory)** [![Stars](https://img.shields.io/github/stars/vectorInstitute/sample-factory?style=social&color=white)](https://github.com/vectorInstitute/sample-factory/stargazers)  
+- **[Sample Factory](https://github.com/alex-petrenko/sample-factory)** [![Stars](https://img.shields.io/github/stars/alex-petrenko/sample-factory?style=social&color=white)](https://github.com/alex-petrenko/sample-factory/stargazers)  
   High-throughput RL training framework optimized for fast algorithm iteration and comparison.
 
 - **[Rliable](https://github.com/google-research/rliable)** [![Stars](https://img.shields.io/github/stars/google-research/rliable?style=social&color=white)](https://github.com/google-research/rliable/stargazers)  
